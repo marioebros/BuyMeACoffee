@@ -1,0 +1,24 @@
+{
+  "name": "buymeacoffee",
+  "version": "1.0.0",
+  "description": "Buy Me A Coffee Smart Contract that allows visitors to send (fake) ETH as tips; built using Alchemy, Hardhat, Ether.js, &amp; Ethereum Goerli.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioebros/BuyMeACoffee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioebros/BuyMeACoffee/issues"
+  },
+  "homepage": "https://github.com/marioebros/BuyMeACoffee#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.3"
+  }
+}
